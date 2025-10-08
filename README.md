@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Sales Overview Dashboard
 
 📅 **Period:** Jan–May 2025  
 📊 **Tools Used:** Power BI, DAX, Power Query  
@@ -24,6 +24,6 @@ To analyze sales and profit trends across regions and categories, providing a qu
 - Interactive filters for better storytelling  
 
 🖼️ **Dashboard Preview:**  
-![Sales Performance](Without_Filter_Icon.png)
-![Sales Performance2](With_Filter_Icon.png)
+![Sales Overview Without Filter Icon](Without_Filter_Icon.png)
+![Sales Overview With Filter Icon](With_Filter_Icon.png)
 
