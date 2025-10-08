@@ -1,0 +1,40 @@
+{
+  "name": "Custom Minimalist Dashboard Theme",
+  "dataColors": ["#007ACC", "#2E2E2E", "#F2F2F2", "#333333", "#FFFFFF"],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#007ACC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#333333"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
