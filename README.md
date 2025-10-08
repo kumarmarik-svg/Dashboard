@@ -24,5 +24,5 @@ To analyze sales and profit trends across regions and categories, providing a qu
 - Interactive filters for better storytelling  
 
 🖼️ **Dashboard Preview:**  
-![Sales Performance](Sales_Performance.png)
+![Sales Performance](Sales Overview Dashboard.pdf)
 
