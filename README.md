@@ -10,7 +10,6 @@ To analyze sales and profit trends across regions and categories, providing a qu
 - KPI Cards: Total Sales, Total Profit, Sales YTD, Profit YTD  
 - Trend Line: Monthly sales trend with slicer filters  
 - Regional Breakdown: Bar chart of sales by region  
-- Top N Products: Ranked by sales and profit  
 - Filter Panel: Dynamic button to filter by month and region  
 
 ## 🧰 DAX Highlights
