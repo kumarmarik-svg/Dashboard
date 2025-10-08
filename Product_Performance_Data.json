@@ -1,0 +1,54 @@
+{
+  "name": "Product Performance Dashboard",
+  "dataColors": [
+    "#2196F3", "#4CAF50", "#FF9800", "#F44336", "#9C27B0",
+    "#00BCD4", "#8BC34A", "#FFC107", "#E91E63", "#795548"
+  ],
+  "background": "#1E1E2E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2196F3",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 14,
+          "fontFamily": "Segoe UI Semibold"
+        }],
+        "labels": [{
+          "color": {"solid": {"color": "#D0D0D0"}},
+          "fontSize": 12
+        }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "background": [{
+          "color": {"solid": {"color": "#2A2A3C"}}
+        }],
+        "selection": [{
+          "backgroundColor": {"solid": {"color": "#2196F3"}},
+          "fontColor": {"solid": {"color": "#FFFFFF"}}
+        }]
+      }
+    },
+    "matrix": {
+      "*": {
+        "rowHeaders": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "columnHeaders": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}},
+          "background": {"solid": {"color": "#2A2A3C"}}
+        }],
+        "values": [{
+          "textColor": {"solid": {"color": "#D0D0D0"}},
+          "background": {"solid": {"color": "#1E1E2E"}}
+        }]
+      }
+    }
+  }
+}
