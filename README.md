@@ -7,7 +7,7 @@
 
 ## 🎯 Objective
 To design a **comprehensive executive dashboard** that combines key business KPIs, regional trends, and product-level insights in a single professional report.  
-The dashboard is built for **CXO-level decision making**, highlighting sales growth, profitability, and performance contribution.
+The dashboard is built for **CEO-level decision making**, highlighting sales growth, profitability, and performance contribution.
 
 ---
 
